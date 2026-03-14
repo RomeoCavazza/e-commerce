@@ -276,9 +276,16 @@ The scaffolding phase concludes with a fully synchronized local environment, ser
 
 ---
 
+---
+
 ## VI. Industrial Vibe-Coding: The Build Session
 
 The **Vibecoding** phase is where the architecture is filled with industrial-grade logic. Once the environment is synchronized and the structure validated, we move from planning to active building.
+
+> **Strategic Orchestration Prompt (AI Input):**
+> *"Act as a Senior Fullstack Engineer. Implement a decoupled Next.js & Express architecture for the DRYVIA Store. Prioritize the 'Zero-Product Shield' using local fallbacks. The aesthetic must follow the 'Eco-Performance' design system: Deep Black surfaces with Neon Green highlights. Build for performance and athletes."*
+
+---
 
 ### Step 6.1: Industrial Launch Commands
 To ensure all layers (Frontend, Backend, Knowledge Base) are perfectly synchronized during development, we use standardized industrial commands that launch the entire ecosystem concurrently.
@@ -302,6 +309,8 @@ Armed with the **Vibe Strategy**, we enter a high-velocity building phase. This 
 
 ### Step 6.3: Technical Architecture & Hierarchy
 The result of this session is a rock-solid, decoupled monorepo structure. Every module has a clear, isolated responsibility.
+
+---
 
 #### System Graph
 ```mermaid
@@ -366,6 +375,8 @@ frontend/src/
 
 ### Step 6.4: Versioning Finalization
 Once the Vibe-Coding session reaches production-ready state, we perform a final synchronization with the cloud, pushing the entire codebase to GitHub.
+
+---
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/github-push.png" alt="GitHub Sync" width="100%" />
