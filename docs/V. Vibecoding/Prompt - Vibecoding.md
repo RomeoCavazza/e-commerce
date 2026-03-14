@@ -238,3 +238,21 @@ Ce document sert de **maxi prompt d’implémentation** : chaque phase peut êtr
 - **Backend base URL (dev) :** `http://localhost:5000` — CORS autoriser `http://localhost:3000`.
 
 Tu peux exécuter les phases dans l’ordre et utiliser ce fichier comme spec unique pour implémenter **tout** : assets, backend, navbar, panier, hero vidéo loop, landing complète avec gros footer, et boutique full fonctionnelle avec fiche produit, panier et paiement.
+
+---
+
+## 5. Vibecoding & Déploiement
+
+Voici la séquence finale de vibecoding et de mise en ligne :
+
+### 5.1 Vibecoding Session
+![Live Coding](live-coding.gif)
+
+### 5.2 Git Push
+![Git Push](git-push.png)
+
+### 5.3 Vercel Deployment
+![Vercel Deploy](vercel-deploy.png)
+
+### 5.4 Résultat Final
+![Final Result](final-result.gif)
