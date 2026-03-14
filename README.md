@@ -55,12 +55,12 @@ The mission: Transform a strategic vision into a live, industrial-grade E-Commer
 
 ## I. Strategic Framing
 
-Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Prompt%20-%20Strategy%20and%20Concept.md).
+Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md).
 
 ### Step 1.1: Product Niche & Solution Strategy
 We identified a gap in the market for high-performance gym footwear that prioritizes moisture management and hygiene. Our strategy focuses on a technical anti-transfer moisture sole combined with breathable, recycled materials.
 
-> **Excerpt from [Concept & Strategy](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Prompt%20-%20Strategy%20and%20Concept.md):**
+> **Excerpt from [Concept & Strategy](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md):**
 > - **Niche**: Indoor anti-sweat sports shoes for fitness studios.
 > - **Solution**: Zero-transfer sole + antibacterial anti-odor membrane.
 > - **Objective**: Keep feet, socks, and gym mats perfectly dry.
