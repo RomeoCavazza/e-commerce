@@ -101,7 +101,14 @@ We synthesized our core design tokens—Deep Black, Neon Green, and Fresh Blue�
   <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Cr%C3%A9ations%20graphiques.png" alt="Branding Overview" width="100%" />
 </div>
 
-### Step 2.2: Technical Product Asset Library
+### Step 2.2: AI Multimedia Synthesis (Images & Videos)
+Beyond static branding, we leveraged **Kling AI** to orchestrate a multimedia ecosystem. This workflow allows for the clinical generation of both ultra-consistent product photography and high-spec industrial video teasers.
+
+<div align="center">
+  <img src="docs/II.%20Cr%C3%A9ations%20graphiques/kling-generate.png" alt="AI Multimedia Generation" width="100%" />
+</div>
+
+### Step 2.3: Technical Product Asset Library
 To provide total transparency for the consumer, we generated a full 360° technical library for the flagship DRYVIA sneaker, showcasing everything from the tech-mesh fabric to the anti-moisture sole.
 
 <div align="center">
@@ -114,7 +121,7 @@ To provide total transparency for the consumer, we generated a full 360° techni
 
 </div>
 
-### Step 2.3: Design Synthesis Deliverable
+### Step 2.4: Design Synthesis Deliverable
 The creative phase concluded with a final synthesis image, rendering the product in its high-end performance context, ready for integration into the Next.js frontend.
 
 <div align="center">
