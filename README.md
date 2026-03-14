@@ -98,7 +98,7 @@ To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded 
 We synthesized our core design tokens—Deep Black, Neon Green, and Fresh Blue—into a comprehensive branding board that serves as the "source of truth" for the UI/UX implementation.
 
 <div align="center">
-  <img src="docs/II.%20Graphic%20Collections/Graphic Collections.png" alt="Branding Overview" width="100%" />
+  <img src="docs/II. Graphic Collections/graphic-collections.png" alt="Branding Overview" width="100%" />
 </div>
 
 ### Step 2.2: AI Multimedia Synthesis (Images & Videos)
