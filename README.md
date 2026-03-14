@@ -48,7 +48,7 @@ graph LR
 The mission: Transform a strategic vision into a live, industrial-grade E-Commerce platform.
 
 <div align="center">
-  <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final DRYVIA Landing Page" width="100%" />
+  <img src="docs/V.%20Vibecoding/localhost.png" alt="Final DRYVIA Landing Page" width="100%" />
 </div>
 
 ---
@@ -406,7 +406,7 @@ The mission is complete. The **DRYVIA** e-commerce experience is live, deliverin
 <div align="center">
   <p align="center">
     <a href="https://e-commerce-frontend-red-eight.vercel.app/">
-      <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final Live Store" width="100%" />
+      <img src="docs/V.%20Vibecoding/localhost.png" alt="Final Live Store" width="100%" />
     </a>
   </p>
 </div>
