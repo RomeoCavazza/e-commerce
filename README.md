@@ -48,7 +48,7 @@ graph LR
 The mission: Transform a strategic vision into a live, industrial-grade E-Commerce platform.
 
 <div align="center">
-  <img src="docs/V. Vibecoding/final-result.gif" alt="Final DRYVIA Landing Page" width="100%" />
+  <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final DRYVIA Landing Page" width="100%" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ We identified a gap in the market for high-performance gym footwear that priorit
 > - **Objective**: Keep feet, socks, and gym mats perfectly dry.
 
 <div align="center">
-  <img src="docs/I. Cadrage stratégique/Concept %26 Stratégie Produit/Concept %26 Stratégie Produit.png" alt="Concept & Strategy" width="100%" />
+  <img src="docs/I.%20Cadrage%20strat%C3%A9gique/Concept%20%26%20Strat%C3%A9gie%20Produit/Concept%20%26%20Strat%C3%A9gie%20Produit.png" alt="Concept & Strategy" width="100%" />
 </div>
 
 ### Step 1.2: Crafting the Brand Identity
@@ -78,14 +78,14 @@ Once the strategy was locked, we defined the **DRYVIA** visual DNA—a blend of 
 > - **Tagline**: "Stay Dry. Train Hard."
 
 <div align="center">
-  <img src="docs/I. Cadrage stratégique/Identité de marque/Identité de Marque.png" alt="Brand Identity" width="100%" />
+  <img src="docs/I.%20Cadrage%20strat%C3%A9gique/Identit%C3%A9%20de%20marque/Identit%C3%A9%20de%20Marque.png" alt="Brand Identity" width="100%" />
 </div>
 
 ### Step 1.3: Strategic Synthesis Deliverable
 All strategic research—from target persona mapping to competitive positioning—was synthesized into a master visual blueprint to align the technical and creative teams.
 
 <div align="center">
-  <img src="docs/I. Cadrage stratégique/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
+  <img src="docs/I.%20Cadrage%20strat%C3%A9gique/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded 
 We synthesized our core design tokens—Deep Black, Neon Green, and Fresh Blue—into a comprehensive branding board that serves as the "source of truth" for the UI/UX implementation.
 
 <div align="center">
-  <img src="docs/II.%20Créations%20graphiques/Créations%20graphiques.png" alt="Branding Overview" width="100%" />
+  <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Cr%C3%A9ations%20graphiques.png" alt="Branding Overview" width="100%" />
 </div>
 
 ### Step 2.2: Technical Product Asset Library
@@ -106,11 +106,11 @@ To provide total transparency for the consumer, we generated a full 360° techni
 
 <div align="center">
 
-| [**Angle Front**](docs/II.%20Créations%20graphiques/Assets/angle-front.png) | [**Side View**](docs/II.%20Créations%20graphiques/Assets/side-view.png) | [**Sole View**](docs/II.%20Créations%20graphiques/Assets/sole-view.png) | [**Back View**](docs/II.%20Créations%20graphiques/Assets/back-view.png) |
+| [**Angle Front**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/angle-front.png) | [**Side View**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/side-view.png) | [**Sole View**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/sole-view.png) | [**Back View**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/back-view.png) |
 |---|---|---|---|
-| <img src="docs/II.%20Créations%20graphiques/Assets/angle-front.png" width="200" /> | <img src="docs/II.%20Créations%20graphiques/Assets/side-view.png" width="200" /> | <img src="docs/II.%20Créations%20graphiques/Assets/sole-view.png" width="200" /> | <img src="docs/II.%20Créations%20graphiques/Assets/back-view.png" width="200" /> |
-| [**Hero Banner**](docs/II.%20Créations%20graphiques/Assets/hero-banner.png) | [**Gym Lifestyle**](docs/II.%20Créations%20graphiques/Assets/gym-lifestyle.png) | [**Tech Mesh**](docs/II.%20Créations%20graphiques/Assets/tech-mesh.png) | [**Logo Identity**](docs/II.%20Créations%20graphiques/Assets/logo-dark.png) |
-| <img src="docs/II.%20Créations%20graphiques/Assets/hero-banner.png" width="200" /> | <img src="docs/II.%20Créations%20graphiques/Assets/gym-lifestyle.png" width="200" /> | <img src="docs/II.%20Créations%20graphiques/Assets/tech-mesh.png" width="200" /> | <img src="docs/II.%20Créations%20graphiques/Assets/logo-dark.png" width="200" /> |
+| <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/angle-front.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/side-view.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/sole-view.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/back-view.png" width="200" /> |
+| [**Hero Banner**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/hero-banner.png) | [**Gym Lifestyle**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/gym-lifestyle.png) | [**Tech Mesh**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/tech-mesh.png) | [**Logo Identity**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/logo-dark.png) |
+| <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/hero-banner.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/gym-lifestyle.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/tech-mesh.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/logo-dark.png" width="200" /> |
 
 </div>
 
@@ -118,7 +118,7 @@ To provide total transparency for the consumer, we generated a full 360° techni
 The creative phase concluded with a final synthesis image, rendering the product in its high-end performance context, ready for integration into the Next.js frontend.
 
 <div align="center">
-  <img src="docs/II.%20Créations%20graphiques/Livrable.png" alt="Graphic Synthesis" width="100%" />
+  <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Livrable.png" alt="Graphic Synthesis" width="100%" />
 </div>
 
 ---
@@ -156,70 +156,56 @@ Industrial-grade development requires a robust, AI-native environment. We establ
 Before writing a single line of code, we accessed the official **Git** portal to acquire the latest version of the industry-standard version control system.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Github%20et%20Git/git-download-page.png" alt="Git Download Page" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Github%20et%20Git/git-download-page.png" alt="Git Download Page" width="100%" />
 </div>
 
 ### Step 4.2: Industrial Installer Configuration
 We executed the Git installer with optimized settings for industrial development, ensuring that our local command line is perfectly aligned with the DRYVIA project's requirements.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Github%20et%20Git/git-installer-wizard.jpg" alt="Git Installer Wizard" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Github%20et%20Git/git-installer-wizard.jpg" alt="Git Installer Wizard" width="100%" />
 </div>
 
 ### Step 4.3: Cloud Collaboration Account (GitHub)
 To host the DRYVIA source code and enable AI-orchestrated deployment, we configured a professional **GitHub** account, bridging our local work with the global developer community.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Github%20et%20Git/github-sign-up.png" alt="GitHub Sign Up" width="100%" />
-</div>
-
-### Step 4.4: Strategic Repository Initialization
-We initialized a dedicated "e-commerce" repository, defining its public visibility and strategic importance within the DRYVIA brand ecosystem.
-
-<div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Github%20et%20Git/create-repo-form.png" alt="GitHub Create Repo" width="100%" />
-</div>
-
-### Step 4.5: Repository Active & Ready
-The final repository view confirms that our cloud staging environment is active, ready to receive the first commits of our premium sneakers platform.
-
-<div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Github%20et%20Git/repo-created-view.png" alt="GitHub Repo Created View" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Github%20et%20Git/github-sign-up.png" alt="GitHub Sign Up" width="100%" />
 </div>
 
 ### Step 4.6: AI-Native IDE Acquisition (Trae)
 The heart of our workflow is **Trae IDE**—the next-generation, AI-first editor. We downloaded the stable build to enable high-velocity "Vibe Coding" capabilities.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Trae%20IDE/trae-download-page.png" alt="Trae Download Page" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-download-page.png" alt="Trae Download Page" width="100%" />
 </div>
 
 ### Step 4.7: Welcome to the Future of Coding
 The Trae welcome screen marks the transition from traditional development to an AI-choreographed workspace, designed for maximum engineering speed.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Trae%20IDE/trae-welcome-screen.png" alt="Trae Welcome Screen" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-welcome-screen.png" alt="Trae Welcome Screen" width="100%" />
 </div>
 
 ### Step 4.8: Secure Device Verification
 Security is paramount. We performed a secure device verification to link our Trae instance with our digital identity, ensuring a safe building environment.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Trae%20IDE/trae-device-verification.png" alt="Trae Device Verification" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-device-verification.png" alt="Trae Device Verification" width="100%" />
 </div>
 
 ### Step 4.9: Remote Repository Synchronization
 We initiated the first clone of the DRYVIA repository directly within Trae, pulling our strategic foundations from the cloud into our local AI cockpit.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Trae%20IDE/trae-clone-repo-input.png" alt="Trae Clone Repo" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-clone-repo-input.png" alt="Trae Clone Repo" width="100%" />
 </div>
 
 ### Step 4.10: The Builder Interface Activation
 The final step in our environment setup: activating the **Trae Builder** interface, where the strategic context and code arborescence truly come to life.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20développement/Trae%20IDE/trae-builder-interface.png" alt="Trae Builder Interface" width="100%" />
+  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-builder-interface.png" alt="Trae Builder Interface" width="100%" />
 </div>
 
 ---
@@ -240,7 +226,7 @@ To ensure a standardized and error-free environment, we utilized a custom **Bash
 > ```
 
 <div align="center">
-  <img src="docs/IV.%20Context%20Engineering/Arborescence/Exécuter%20le%20script.png" alt="Executing Scaffolding Script" width="100%" />
+  <img src="docs/IV.%20Context%20Engineering/Arborescence/Ex%C3%A9cuter%20le%20script.png" alt="Executing Scaffolding Script" width="100%" />
 </div>
 
 ```bash
@@ -271,7 +257,7 @@ e-commerce/
 Once the skeleton is generated, we perform a deep verification using the `tree` command. This step validates that every directory and configuration file is correctly placed for the build phase.
 
 <div align="center">
-  <img src="docs/IV.%20Context%20Engineering/Arborescence/Vérifier%20l_arborescence.png" alt="Arborescence Verification" width="100%" />
+  <img src="docs/IV.%20Context%20Engineering/Arborescence/V%C3%A9rifier%20l_arborescence.png" alt="Arborescence Verification" width="100%" />
 </div>
 
 ### Step 5.3: Architectural Infrastructure Deliverable
@@ -283,37 +269,151 @@ The scaffolding phase concludes with a fully synchronized local environment, ser
 
 ---
 
-## VI. Vibecoding & Build
+## VI. Industrial Vibe-Coding: The Build Session
 
-The **Vibecoding** phase is where the architecture is filled with industrial-grade logic. Once the environment is cloned, dependencies installed, and the project structure validated, we launch the local services and visualize the application in the browser.
+The **Vibecoding** phase is where the architecture is filled with industrial-grade logic. Once the environment is synchronized and the structure validated, we move from planning to active building.
 
-### Step 6.1: Launch Local Services & Web Preview
-After copying the repository, running `npm install` in both `frontend` and `backend`, and confirming the arborescence (see Section V), we start the development servers. The frontend runs on **localhost:3000** and the API on **localhost:5000**, giving immediate visual feedback that the stack is operational.
+### Step 6.1: Industrial Launch Commands
+To ensure all layers (Frontend, Backend, Knowledge Base) are perfectly synchronized during development, we use standardized industrial commands that launch the entire ecosystem concurrently.
 
 <div align="center">
-  <img src="docs/V.%20Vibecoding/npm-run-dev.png" alt="Launch local services — npm run dev and backend on localhost" width="100%" />
+  <img src="docs/V.%20Vibecoding/npm-run-dev.png" alt="Industrial Launch" width="100%" />
 </div>
 
-### Step 6.2: Full Session — Prompt-Driven Implementation
-The core of our workflow: we paste the complete [Vibecoding Prompt](docs/V.%20Vibecoding/Prompt%20-%20Vibecoding.md) into the AI-assisted builder. In a single session, the agent interprets the plan, applies the design system, and implements the full stack—landing page, shop, cart, and checkout—driven entirely by the structured instructions in the prompt. The detailed roadmap lives in [Prompt - Vibecoding.md](docs/V.%20Vibecoding/Prompt%20-%20Vibecoding.md), with phases covering design system, backend API, layout (navbar, footer, cart), landing page (hero, sections), shop, and payment.
+```bash
+# Start the entire ecosystem in development mode
+# This launches Next.js and the Express API
+npm run dev
+```
 
-> [!TIP]
-> **Vibe Tip**: We use `CartProvider` with `localStorage` persistence so users never lose their cart, even across sessions.
+### Step 6.2: Live Vibe-Coding Session
+Armed with the **Vibe Strategy**, we enter a high-velocity building phase. This session transforms technical requirements into a functional product through autonomous UI creation and API integration.
 
 <div align="center">
-  <img src="docs/V.%20Vibecoding/love-coding.gif" alt="Live session: copy-paste Prompt - Vibecoding.md and full dev implementation" width="100%" />
+  <img src="docs/V.%20Vibecoding/live-coding.gif" alt="Live Coding Session" width="100%" />
 </div>
 
-### Step 6.3: Final Result & Verification
-The outcome is a fully functional DRYVIA e-commerce experience. We then run through the critical paths: navigation, product listing, product detail, add-to-cart, and checkout—to confirm that all routes work and the code is correctly implemented. The result is satisfying and ready for the next phase (deployment or iteration).
+#### Session Progression
+The visual progression shows real-time component generation and architectural synthesis, turning the DNA of the project into a premium storefront.
 
 <div align="center">
-  <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final result — verification that all paths work and code is well implemented" width="100%" />
+  <img src="docs/V.%20Vibecoding/landing.png" alt="Vibe-Coding Progress" width="100%" />
+</div>
+
+### Step 6.3: Technical Architecture & Hierarchy
+The result of this session is a rock-solid, decoupled monorepo structure. Every module has a clear, isolated responsibility.
+
+#### System Graph
+```mermaid
+graph TD
+    A[Root: Monorepo] --> B[frontend/]
+    A --> C[backend/]
+    A --> D[docs/]
+    
+    B --> B1[Next.js App Router]
+    B --> B2[Tailwind & Shadcn]
+    C --> C1[Express API]
+    C --> C2[Mongoose Models]
+    D --> D1[Knowledge Base]
+```
+
+#### Final Project Trees
+
+**Root Structure**
+```text
+e-commerce/
+├── backend/            # API Layer (Express/TS)
+├── frontend/           # UI Layer (Next.js 14)
+├── docs/               # Strategy & Documentation
+├── package.json        # Unified Workspace
+└── create_structure.sh # Scaffolding Script
+```
+
+**Backend Focus**
+```text
+backend/
+├── app.ts              # Express Core
+├── controllers/        # Logical Handlers
+├── models/             # Mongoose Schemas
+└── routes/             # Endpoint Definitions
+```
+
+> **Endpoint Sample (`products.routes.ts`):**
+> ```typescript
+> router.get('/', getProducts);
+> router.get('/:slug', getProductBySlug);
+> ```
+
+**Frontend Focus**
+```text
+frontend/src/
+├── app/                # Layouts & App Router
+├── components/         # Atomic UI Design
+├── features/           # Checkout & Cart Logic
+└── providers/          # Global Context Providers
+```
+
+> **Home Implementation (`app/page.tsx`):**
+> ```tsx
+> export default function Home() {
+>   return (
+>     <section className="relative h-screen flex items-center...">
+>       {/* High-Performance Storytelling */}
+>     </section>
+>   );
+> }
+> ```
+
+### Step 6.4: Versioning Finalization
+Once the Vibe-Coding session reaches production-ready state, we perform a final synchronization with the cloud, pushing the entire codebase to GitHub.
+
+<div align="center">
+  <img src="docs/V.%20Vibecoding/github-push.png" alt="GitHub Sync" width="100%" />
 </div>
 
 ---
 
-## 🏆 Mission Status
-**Current State**: Documentation & Strategic Assets 100% Locked. Execution in Progress.
+## VII. Production & Cloud Deployment
 
-*This repository demonstrates the power of AI-orchestrated development. From niche product strategy to premium asset generation, we are building the future of fitness e-commerce.*
+The transition to production is the ultimate validation of our technical pipeline. We utilize Vercel's orchestration to serve the DRYVIA store globally.
+
+### Step 7.1: Vercel Project Initialization
+We initiate the deployment process by linking our fresh GitHub repository to Vercel, establishing the production environment and build parameters.
+
+<div align="center">
+  <img src="docs/V.%20Vibecoding/vercel-deploy.png" alt="Vercel Initialization" width="100%" />
+</div>
+
+### Step 7.2: Successful Build Strategy
+Vercel executes the build process, validating our TypeScript code and generating the optimized production bundle. A successful build is the "green light" for the live site.
+
+<div align="center">
+  <img src="docs/V.%20Vibecoding/vercel-successful-build.png" alt="Successful Build" width="100%" />
+</div>
+
+### Step 7.3: Production Dashboard Monitoring
+Post-build, the Vercel Dashboard provides a centralized view of the production status, performance metrics, and the live staging URL.
+
+<div align="center">
+  <img src="docs/V.%20Vibecoding/vercel-dashboard.png" alt="Vercel Dashboard" width="100%" />
+</div>
+
+### Step 7.4: The Final Industrial Result
+The mission is complete. The **DRYVIA** e-commerce experience is live, delivering a premium, anti-sweat training sneaker shop to athletes worldwide.
+
+**Production Link**: [https://e-commerce-frontend-red-eight.vercel.app/](https://e-commerce-frontend-red-eight.vercel.app/)
+
+<div align="center">
+  <p align="center">
+    <a href="https://e-commerce-frontend-red-eight.vercel.app/">
+      <img src="docs/V.%20Vibecoding/final-result.gif" alt="Final Live Store" width="100%" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 🏆 Mission Status: COMPLETED
+**Current State**: Fullstack Ecosystem 100% Deployed. 
+
+*This repository serves as a blueprint for AI-orchestrated engineering. We have transformed a strategic vision into a live, industrial-grade e-commerce project through precise context engineering and high-velocity implementation.*
