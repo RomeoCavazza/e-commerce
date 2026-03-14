@@ -11,7 +11,7 @@
 
 # Master Course: DRYVIA Aesthetic E-Commerce
 
-Welcome to the **complete chronological handbook** for the **DRYVIA** project. This repository is a masterclass in modern, fullstack e-commerce development orchestrated by AI (**Antigravity**). 
+Welcome to the **complete chronological handbook** for the **DRYVIA** project. This repository is a masterclass in modern, fullstackIII. Development Environment orchestrated by AI (**Antigravity**). 
 
 DRYVIA disrupts the fitness equipment market with the first **indoor anti-sweat sneaker**—engineered specifically for studio training (HIIT, Cross-training, Yoga) to keep your feet, socks, and gym mats perfectly dry.
 
@@ -55,18 +55,18 @@ The mission: Transform a strategic vision into a live, industrial-grade E-Commer
 
 ## I. Strategic Framing
 
-Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Cadrage%20strat%C3%A9gique/Concept%20&%20Strat%C3%A9gie%20Produit/Prompt%20%E2%80%94%20%20Concept%20&%20Strat%C3%A9gie%20Produit.md).
+Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Strategic%20Framing/Concept%20&%20Strat%C3%A9gie%20Produit/Prompt%20%E2%80%94%20%20Concept%20&%20Strat%C3%A9gie%20Produit.md).
 
 ### Step 1.1: Product Niche & Solution Strategy
 We identified a gap in the market for high-performance gym footwear that prioritizes moisture management and hygiene. Our strategy focuses on a technical anti-transfer moisture sole combined with breathable, recycled materials.
 
-> **Excerpt from [Concept & Strategy](docs/I.%20Cadrage%20strat%C3%A9gique/Concept%20&%20Strat%C3%A9gie%20Produit/Prompt%20%E2%80%94%20%20Concept%20&%20Strat%C3%A9gie%20Produit.md):**
+> **Excerpt from [Concept & Strategy](docs/I.%20Strategic%20Framing/Concept%20&%20Strat%C3%A9gie%20Produit/Prompt%20%E2%80%94%20%20Concept%20&%20Strat%C3%A9gie%20Produit.md):**
 > - **Niche**: Indoor anti-sweat sports shoes for fitness studios.
 > - **Solution**: Zero-transfer sole + antibacterial anti-odor membrane.
 > - **Objective**: Keep feet, socks, and gym mats perfectly dry.
 
 <div align="center">
-  <img src="docs/I.%20Cadrage%20strat%C3%A9gique/Concept%20%26%20Strat%C3%A9gie%20Produit/Concept%20%26%20Strat%C3%A9gie%20Produit.png" alt="Concept & Strategy" width="100%" />
+  <img src="docs/I.%20Strategic%20Framing/Concept%20%26%20Strat%C3%A9gie%20Produit/Concept%20%26%20Strat%C3%A9gie%20Produit.png" alt="Concept & Strategy" width="100%" />
 </div>
 
 ### Step 1.2: Crafting the Brand Identity
@@ -78,14 +78,14 @@ Once the strategy was locked, we defined the **DRYVIA** visual DNA—a blend of 
 > - **Tagline**: "Stay Dry. Train Hard."
 
 <div align="center">
-  <img src="docs/I.%20Cadrage%20strat%C3%A9gique/Identit%C3%A9%20de%20marque/Identit%C3%A9%20de%20Marque.png" alt="Brand Identity" width="100%" />
+  <img src="docs/I.%20Strategic%20Framing/Identit%C3%A9%20de%20marque/Identit%C3%A9%20de%20Marque.png" alt="Brand Identity" width="100%" />
 </div>
 
 ### Step 1.3: Strategic Synthesis Deliverable
 All strategic research—from target persona mapping to competitive positioning—was synthesized into a master visual blueprint to align the technical and creative teams.
 
 <div align="center">
-  <img src="docs/I.%20Cadrage%20strat%C3%A9gique/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
+  <img src="docs/I.%20Strategic%20Framing/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
 </div>
 
 ---
@@ -98,14 +98,14 @@ To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded 
 We synthesized our core design tokens—Deep Black, Neon Green, and Fresh Blue—into a comprehensive branding board that serves as the "source of truth" for the UI/UX implementation.
 
 <div align="center">
-  <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Cr%C3%A9ations%20graphiques.png" alt="Branding Overview" width="100%" />
+  <img src="docs/II.%20Graphic%20Collections/Cr%C3%A9II. Graphic Collections.png" alt="Branding Overview" width="100%" />
 </div>
 
 ### Step 2.2: AI Multimedia Synthesis (Images & Videos)
 Beyond static branding, we leveraged **Kling AI** to orchestrate a multimedia ecosystem. This workflow allows for the clinical generation of both ultra-consistent product photography and high-spec industrial video teasers.
 
 <div align="center">
-  <img src="docs/II.%20Cr%C3%A9ations%20graphiques/kling-generate.png" alt="AI Multimedia Generation" width="100%" />
+  <img src="docs/II.%20Graphic%20Collections/kling-generate.png" alt="AI Multimedia Generation" width="100%" />
 </div>
 
 ### Step 2.3: Technical Product Asset Library
@@ -113,11 +113,11 @@ To provide total transparency for the consumer, we generated a full 360° techni
 
 <div align="center">
 
-| [**Angle Front**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/angle-front.png) | [**Side View**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/side-view.png) | [**Sole View**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/sole-view.png) | [**Back View**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/back-view.png) |
+| [**Angle Front**](docs/II.%20Graphic%20Collections/Assets/angle-front.png) | [**Side View**](docs/II.%20Graphic%20Collections/Assets/side-view.png) | [**Sole View**](docs/II.%20Graphic%20Collections/Assets/sole-view.png) | [**Back View**](docs/II.%20Graphic%20Collections/Assets/back-view.png) |
 |---|---|---|---|
-| <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/angle-front.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/side-view.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/sole-view.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/back-view.png" width="200" /> |
-| [**Hero Banner**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/hero-banner.png) | [**Gym Lifestyle**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/gym-lifestyle.png) | [**Tech Mesh**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/tech-mesh.png) | [**Logo Identity**](docs/II.%20Cr%C3%A9ations%20graphiques/Assets/logo-dark.png) |
-| <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/hero-banner.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/gym-lifestyle.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/tech-mesh.png" width="200" /> | <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Assets/logo-dark.png" width="200" /> |
+| <img src="docs/II.%20Graphic%20Collections/Assets/angle-front.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/side-view.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/sole-view.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/back-view.png" width="200" /> |
+| [**Hero Banner**](docs/II.%20Graphic%20Collections/Assets/hero-banner.png) | [**Gym Lifestyle**](docs/II.%20Graphic%20Collections/Assets/gym-lifestyle.png) | [**Tech Mesh**](docs/II.%20Graphic%20Collections/Assets/tech-mesh.png) | [**Logo Identity**](docs/II.%20Graphic%20Collections/Assets/logo-dark.png) |
+| <img src="docs/II.%20Graphic%20Collections/Assets/hero-banner.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/gym-lifestyle.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/tech-mesh.png" width="200" /> | <img src="docs/II.%20Graphic%20Collections/Assets/logo-dark.png" width="200" /> |
 
 </div>
 
@@ -125,7 +125,7 @@ To provide total transparency for the consumer, we generated a full 360° techni
 The creative phase concluded with a final synthesis image, rendering the product in its high-end performance context, ready for integration into the Next.js frontend.
 
 <div align="center">
-  <img src="docs/II.%20Cr%C3%A9ations%20graphiques/Livrable.png" alt="Graphic Synthesis" width="100%" />
+  <img src="docs/II.%20Graphic%20Collections/Livrable.png" alt="Graphic Synthesis" width="100%" />
 </div>
 
 ---
@@ -163,56 +163,56 @@ Industrial-grade development requires a robust, AI-native environment. We establ
 Before writing a single line of code, we accessed the official **Git** portal to acquire the latest version of the industry-standard version control system.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Github%20et%20Git/git-download-page.png" alt="Git Download Page" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Github%20et%20Git/git-download-page.png" alt="Git Download Page" width="100%" />
 </div>
 
 ### Step 4.2: Industrial Installer Configuration
 We executed the Git installer with optimized settings for industrial development, ensuring that our local command line is perfectly aligned with the DRYVIA project's requirements.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Github%20et%20Git/git-installer-wizard.jpg" alt="Git Installer Wizard" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Github%20et%20Git/git-installer-wizard.jpg" alt="Git Installer Wizard" width="100%" />
 </div>
 
 ### Step 4.3: Cloud Collaboration Account (GitHub)
 To host the DRYVIA source code and enable AI-orchestrated deployment, we configured a professional **GitHub** account, bridging our local work with the global developer community.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Github%20et%20Git/github-sign-up.png" alt="GitHub Sign Up" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Github%20et%20Git/github-sign-up.png" alt="GitHub Sign Up" width="100%" />
 </div>
 
 ### Step 4.6: AI-Native IDE Acquisition (Trae)
 The heart of our workflow is **Trae IDE**—the next-generation, AI-first editor. We downloaded the stable build to enable high-velocity "Vibe Coding" capabilities.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-download-page.png" alt="Trae Download Page" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-download-page.png" alt="Trae Download Page" width="100%" />
 </div>
 
 ### Step 4.7: Welcome to the Future of Coding
 The Trae welcome screen marks the transition from traditional development to an AI-choreographed workspace, designed for maximum engineering speed.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-welcome-screen.png" alt="Trae Welcome Screen" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-welcome-screen.png" alt="Trae Welcome Screen" width="100%" />
 </div>
 
 ### Step 4.8: Secure Device Verification
 Security is paramount. We performed a secure device verification to link our Trae instance with our digital identity, ensuring a safe building environment.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-device-verification.png" alt="Trae Device Verification" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-device-verification.png" alt="Trae Device Verification" width="100%" />
 </div>
 
 ### Step 4.9: Remote Repository Synchronization
 We initiated the first clone of the DRYVIA repository directly within Trae, pulling our strategic foundations from the cloud into our local AI cockpit.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-clone-repo-input.png" alt="Trae Clone Repo" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-clone-repo-input.png" alt="Trae Clone Repo" width="100%" />
 </div>
 
 ### Step 4.10: The Builder Interface Activation
 The final step in our environment setup: activating the **Trae Builder** interface, where the strategic context and code arborescence truly come to life.
 
 <div align="center">
-  <img src="docs/III.%20Environnement%20de%20d%C3%A9veloppement/Trae%20IDE/trae-builder-interface.png" alt="Trae Builder Interface" width="100%" />
+  <img src="docs/III.%20Development%20Environment/Trae%20IDE/trae-builder-interface.png" alt="Trae Builder Interface" width="100%" />
 </div>
 
 ---
