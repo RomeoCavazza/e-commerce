@@ -11,7 +11,7 @@
 
 # Master Course: DRYVIA Aesthetic E-Commerce
 
-Welcome to the **complete chronological handbook** for the **DRYVIA** project. This repository is a masterclass in modern, fullstackIII. Development Environment orchestrated by AI (**Antigravity**). 
+Welcome to the **complete chronological handbook** for the **DRYVIA** project. This repository is a masterclass in modern, fullstack e-commerce development orchestrated by AI (**Antigravity**). 
 
 DRYVIA disrupts the fitness equipment market with the first **indoor anti-sweat sneaker**—engineered specifically for studio training (HIIT, Cross-training, Yoga) to keep your feet, socks, and gym mats perfectly dry.
 
@@ -98,7 +98,7 @@ To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded 
 We synthesized our core design tokens—Deep Black, Neon Green, and Fresh Blue—into a comprehensive branding board that serves as the "source of truth" for the UI/UX implementation.
 
 <div align="center">
-  <img src="docs/II.%20Graphic%20Collections/Cr%C3%A9II. Graphic Collections.png" alt="Branding Overview" width="100%" />
+  <img src="docs/II.%20Graphic%20Collections/Graphic Collections.png" alt="Branding Overview" width="100%" />
 </div>
 
 ### Step 2.2: AI Multimedia Synthesis (Images & Videos)
