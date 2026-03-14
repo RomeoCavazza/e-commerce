@@ -293,13 +293,6 @@ Armed with the **Vibe Strategy**, we enter a high-velocity building phase. This 
   <img src="docs/V.%20Vibecoding/live-coding.gif" alt="Live Coding Session" width="100%" />
 </div>
 
-#### Session Progression
-The visual progression shows real-time component generation and architectural synthesis, turning the DNA of the project into a premium storefront.
-
-<div align="center">
-  <img src="docs/V.%20Vibecoding/landing.png" alt="Vibe-Coding Progress" width="100%" />
-</div>
-
 ### Step 6.3: Technical Architecture & Hierarchy
 The result of this session is a rock-solid, decoupled monorepo structure. Every module has a clear, isolated responsibility.
 
