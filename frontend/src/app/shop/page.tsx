@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/Button';
 import { Card, CardContent, CardFooter } from '@/components/ui/Card';
 import { ShoppingBag } from 'lucide-react';
 import { useCart } from '@/providers/CartProvider';
+import { API_ENDPOINTS } from '@/config/api.config';
 
 interface Product {
   id: string;
@@ -26,7 +27,7 @@ export default function ShopPage() {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch('http://localhost:5001/api/products');
+        const response = await fetch(API_ENDPOINTS.PRODUCTS);
         const data = await response.json();
         setProducts(data);
       } catch (error) {
@@ -90,8 +91,8 @@ export default function ShopPage() {
               </CardContent>
               <CardFooter className="flex items-center justify-between pb-6">
                 <span className="text-2xl font-heading font-bold">€{product.price.toFixed(2)}</span>
-                <Button 
-                  size="sm" 
+                <Button
+                  size="sm"
                   onClick={() => addItem(product)}
                   className="group/btn"
                 >

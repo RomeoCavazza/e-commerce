@@ -6,6 +6,7 @@ import { useParams } from 'next/navigation';
 import { Button } from '@/components/ui/Button';
 import { useCart } from '@/providers/CartProvider';
 import { ShoppingBag, ChevronLeft, ChevronRight, CheckCircle2 } from 'lucide-react';
+import { API_ENDPOINTS } from '@/config/api.config';
 import Link from 'next/link';
 
 interface Product {
@@ -29,7 +30,7 @@ export default function ProductDetailPage() {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const response = await fetch(`http://localhost:5001/api/products/${slug}`);
+        const response = await fetch(`${API_ENDPOINTS.PRODUCTS}/${slug}`);
         if (!response.ok) throw new Error('Product not found');
         const data = await response.json();
         setProduct(data);
@@ -62,30 +63,29 @@ export default function ProductDetailPage() {
               fill
               className="object-contain p-12 transition-all duration-500"
             />
-            
+
             {/* Gallery Navigation Arrows */}
-            <button 
+            <button
               onClick={() => setActiveImage(prev => (prev === 0 ? product.imageUrls.length - 1 : prev - 1))}
               className="absolute left-4 top-1/2 -translate-y-1/2 p-2 bg-brand-black/50 text-brand-white hover:bg-brand-green hover:text-brand-black transition-all"
             >
               <ChevronLeft size={20} />
             </button>
-            <button 
+            <button
               onClick={() => setActiveImage(prev => (prev === product.imageUrls.length - 1 ? 0 : prev + 1))}
               className="absolute right-4 top-1/2 -translate-y-1/2 p-2 bg-brand-black/50 text-brand-white hover:bg-brand-green hover:text-brand-black transition-all"
             >
               <ChevronRight size={20} />
             </button>
           </div>
-          
+
           <div className="grid grid-cols-5 gap-4">
             {product.imageUrls.map((url, idx) => (
               <button
                 key={idx}
                 onClick={() => setActiveImage(idx)}
-                className={`relative aspect-square bg-brand-gray/5 border-2 transition-all overflow-hidden ${
-                  activeImage === idx ? 'border-brand-green' : 'border-transparent opacity-60 hover:opacity-100'
-                }`}
+                className={`relative aspect-square bg-brand-gray/5 border-2 transition-all overflow-hidden ${activeImage === idx ? 'border-brand-green' : 'border-transparent opacity-60 hover:opacity-100'
+                  }`}
               >
                 <Image src={url} alt={`${product.name} view ${idx + 1}`} fill className="object-contain p-2" />
               </button>
@@ -122,8 +122,8 @@ export default function ProductDetailPage() {
           </div>
 
           <div className="mt-auto pt-8 border-t border-brand-gray/20">
-            <Button 
-              size="lg" 
+            <Button
+              size="lg"
               className="w-full sm:w-auto px-12"
               onClick={() => addItem(product)}
             >
