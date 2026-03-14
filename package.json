@@ -2,11 +2,7 @@
   "name": "dryvia-monorepo",
   "version": "1.0.0",
   "private": true,
-  "workspaces": [
-    "frontend",
-    "backend"
-  ],
   "scripts": {
-    "build": "npm run build -w frontend"
+    "build": "cd frontend && npm install && npm run build"
   }
 }
