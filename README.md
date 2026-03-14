@@ -55,18 +55,18 @@ The mission: Transform a strategic vision into a live, industrial-grade E-Commer
 
 ## I. Strategic Framing
 
-Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Strategic%20Framing/Concept%20&%20Strat%C3%A9gie%20Produit/Prompt%20%E2%80%94%20%20Concept%20&%20Strat%C3%A9gie%20Produit.md).
+Every project begins with a clear **Intention**. DRYVIA was born from a specific vertical problem: the discomfort and hygiene issues of foot sweating during indoor fitness. We defined a strict "Eco-Performance" scope using our [Strategic Brief](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Prompt%20-%20Strategy%20and%20Concept.md).
 
 ### Step 1.1: Product Niche & Solution Strategy
 We identified a gap in the market for high-performance gym footwear that prioritizes moisture management and hygiene. Our strategy focuses on a technical anti-transfer moisture sole combined with breathable, recycled materials.
 
-> **Excerpt from [Concept & Strategy](docs/I.%20Strategic%20Framing/Concept%20&%20Strat%C3%A9gie%20Produit/Prompt%20%E2%80%94%20%20Concept%20&%20Strat%C3%A9gie%20Produit.md):**
+> **Excerpt from [Concept & Strategy](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Prompt%20-%20Strategy%20and%20Concept.md):**
 > - **Niche**: Indoor anti-sweat sports shoes for fitness studios.
 > - **Solution**: Zero-transfer sole + antibacterial anti-odor membrane.
 > - **Objective**: Keep feet, socks, and gym mats perfectly dry.
 
 <div align="center">
-  <img src="docs/I.%20Strategic%20Framing/Concept%20%26%20Strat%C3%A9gie%20Produit/Concept%20%26%20Strat%C3%A9gie%20Produit.png" alt="Concept & Strategy" width="100%" />
+  <img src="docs/I. Strategic Framing/Strategy and Concept/Strategy and Concept.png" alt="Concept & Strategy" width="100%" />
 </div>
 
 ### Step 1.2: Crafting the Brand Identity
@@ -78,7 +78,7 @@ Once the strategy was locked, we defined the **DRYVIA** visual DNA—a blend of 
 > - **Tagline**: "Stay Dry. Train Hard."
 
 <div align="center">
-  <img src="docs/I.%20Strategic%20Framing/Identit%C3%A9%20de%20marque/Identit%C3%A9%20de%20Marque.png" alt="Brand Identity" width="100%" />
+  <img src="docs/I. Strategic Framing/Brand Identity/Brand Identity.png" alt="Brand Identity" width="100%" />
 </div>
 
 ### Step 1.3: Strategic Synthesis Deliverable
@@ -233,7 +233,7 @@ To ensure a standardized and error-free environment, we utilized a custom **Bash
 > ```
 
 <div align="center">
-  <img src="docs/IV.%20Context%20Engineering/Arborescence/Ex%C3%A9cuter%20le%20script.png" alt="Executing Scaffolding Script" width="100%" />
+  <img src="docs/IV. Context Engineering/Arborescence/Execute Scaffolding Script.png" alt="Executing Scaffolding Script" width="100%" />
 </div>
 
 ```bash
@@ -264,7 +264,7 @@ e-commerce/
 Once the skeleton is generated, we perform a deep verification using the `tree` command. This step validates that every directory and configuration file is correctly placed for the build phase.
 
 <div align="center">
-  <img src="docs/IV.%20Context%20Engineering/Arborescence/V%C3%A9rifier%20l_arborescence.png" alt="Arborescence Verification" width="100%" />
+  <img src="docs/IV. Context Engineering/Arborescence/Verify Arborescence.png" alt="Arborescence Verification" width="100%" />
 </div>
 
 ### Step 5.3: Architectural Infrastructure Deliverable
