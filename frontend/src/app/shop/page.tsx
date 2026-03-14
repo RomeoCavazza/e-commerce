@@ -8,19 +8,11 @@ import { Card, CardContent, CardFooter } from '@/components/ui/Card';
 import { ShoppingBag } from 'lucide-react';
 import { useCart } from '@/providers/CartProvider';
 import { API_ENDPOINTS } from '@/config/api.config';
-
-interface Product {
-  id: string;
-  name: string;
-  slug: string;
-  price: number;
-  description: string;
-  imageUrls: string[];
-  category: string;
-}
+import { Product } from '@/types';
+import { initialProducts } from '@/data/products';
 
 export default function ShopPage() {
-  const [products, setProducts] = useState<Product[]>([]);
+  const [products, setProducts] = useState<Product[]>(initialProducts);
   const [isLoading, setIsLoading] = useState(true);
   const { addItem } = useCart();
 

@@ -7,22 +7,17 @@ import { Button } from '@/components/ui/Button';
 import { useCart } from '@/providers/CartProvider';
 import { ShoppingBag, ChevronLeft, ChevronRight, CheckCircle2 } from 'lucide-react';
 import { API_ENDPOINTS } from '@/config/api.config';
+import { Product } from '@/types';
+import { initialProducts } from '@/data/products';
 import Link from 'next/link';
-
-interface Product {
-  id: string;
-  name: string;
-  slug: string;
-  price: number;
-  description: string;
-  features: string[];
-  imageUrls: string[];
-  category: string;
-}
 
 export default function ProductDetailPage() {
   const { slug } = useParams();
-  const [product, setProduct] = useState<Product | null>(null);
+
+  // Find local fallback first
+  const localFallback = initialProducts.find(p => p.slug === slug);
+
+  const [product, setProduct] = useState<Product | null>(localFallback || null);
   const [isLoading, setIsLoading] = useState(true);
   const [activeImage, setActiveImage] = useState(0);
   const { addItem } = useCart();
