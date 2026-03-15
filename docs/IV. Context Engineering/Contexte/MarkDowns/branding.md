@@ -1,4 +1,25 @@
-# Branding - DRYVIA
+# Branding — DRYVIA
+
+Document **source de vérité** pour l’identité de marque DRYVIA. Utilisé par le design system, les copies et les prompts de génération d’assets. Ne pas utiliser de texte placeholder : tout doit provenir de ce fichier ou du brief validé.
+
+---
+
+## Vue d’ensemble
+
+```mermaid
+flowchart LR
+    A[Brand Name] --> B[Brand Identity]
+    B --> C[Verbal Identity]
+    C --> D[Taglines]
+```
+
+| Section | Contenu |
+|---------|---------|
+| Brand Name | Nom + justification stratégique (Dry + Via). |
+| Brand Identity | Vibe, positionnement, ton. |
+| Verbal Identity | Tagline principal + alternatives. |
+
+---
 
 ## Brand Name
 

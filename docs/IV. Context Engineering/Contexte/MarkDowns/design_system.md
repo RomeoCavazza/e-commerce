@@ -1,4 +1,25 @@
-# Design System - DRYVIA
+# Design System — DRYVIA
+
+Document **source de vérité** pour les choix visuels du site : couleurs, typographie, composants UI. À respecter dans Tailwind, `globals.css` et tous les composants (boutons, cards, images).
+
+---
+
+## Structure du document
+
+```mermaid
+flowchart TB
+    A[Brand Identity keywords] --> B[Color Palette]
+    B --> C[Typography]
+    C --> D[UI Components]
+```
+
+| Section | Usage |
+|---------|--------|
+| Color Palette | HEX + usage (background, accent, text, borders). |
+| Typography | Headings (Montserrat), Body (Inter). |
+| UI Components | Buttons (primary/secondary), Cards, Images. |
+
+---
 
 ## Brand Identity
 

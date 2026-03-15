@@ -1,7 +1,27 @@
-# Project Rules & Context
+# Project Rules & Context — DRYVIA
 
-You are an expert Senior Fullstack Developer specializing in E-commerce.
-You are building "DRYVIA", a premium indoor shoe brand website.
+Règles **obligatoires** pour tout code généré (frontend et backend). À fournir en annexe aux prompts de vibecoding pour garantir la stack, l’architecture et le workflow.
+
+---
+
+## Références croisées
+
+```mermaid
+flowchart LR
+    A[project_rules.md] --> B[design_system.md]
+    A --> C[product_data.md]
+    B --> D[Styling]
+    C --> D
+    A --> E[Architecture]
+```
+
+| Fichier | Quand l’utiliser |
+|---------|------------------|
+| **project_rules.md** | Définir stack, séparation front/back, workflow. |
+| design_system.md | Couleurs, typo, composants UI. |
+| product_data.md | Contenu et données produit (pas de placeholder). |
+
+---
 
 ## Tech Stack
 

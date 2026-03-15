@@ -1,6 +1,27 @@
-# Product Data Source
+# Product Data — DRYVIA
 
-Use this data to populate the UI (Landing page, Shop, Product Details).
+Source **unique** des données produit pour la landing, le shop et la fiche produit. Tous les textes, prix, USP et chemins d’images doivent provenir de ce fichier (pas de Lorem Ipsum).
+
+---
+
+## Mapping données → UI
+
+```mermaid
+flowchart LR
+    A[product_data.md] --> B[Landing]
+    A --> C[Shop listing]
+    A --> D[Product page]
+    A --> E[Cart / Checkout]
+```
+
+| Zone UI | Données utilisées |
+|---------|-------------------|
+| Hero / Tagline | Tagline, sous-titre. |
+| Prix | €129.00 (format cohérent). |
+| USP / Features | 4 features (Anti-Transfer, Flash-Dry, Hygiene Shield, Eco-Impact). |
+| Galerie | Image mapping (angle-front, side-view, sole-view, etc.). |
+
+---
 
 ## The Flagship Model: "DRYVIA One"
 

@@ -1,3 +1,30 @@
+# Prompt — Brand Identity (DRYVIA)
+
+Prompt pour générer le **document d’identité de marque** DRYVIA : nom, palette HEX, vibe, typo, taglines. À utiliser après la stratégie produit et avant le design system et les assets visuels.
+
+---
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[Strategy and Concept] --> B[Prompt Brand Identity]
+    B --> C[Agent]
+    C --> D[Brand Identity.pdf / .md]
+    D --> E[design_system.md + assets]
+```
+
+| Étape | Action |
+|-------|--------|
+| 1 | Avoir validé la stratégie (niche, USP). |
+| 2 | Copier ce prompt (et éventuellement le brief) dans une nouvelle conversation. |
+| 3 | Vérifier : nom, palette avec HEX, typo, taglines, résumé exécutif en tableau. |
+| 4 | Alimenter branding.md et design_system.md à partir du livrable. |
+
+---
+
+## Bloc prompt (copier-coller)
+
 <Context>
 You are an art director and brand strategist for a sport and fitness company. The brand must embody performance, hygiene, innovation, and sustainability.
 </Context>

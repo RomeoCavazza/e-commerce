@@ -25,6 +25,8 @@ DRYVIA disrupts the fitness equipment market with the first **indoor anti-sweat 
 > - Optimized Mobile-First navigation for studio athletes.
 > - **Zero** legacy bloat: Pure TypeScript orchestration from Day 1.
 
+All prompts, strategy and documentation are available in the [**docs**](/docs) folder.
+
 ## Technical Core
 
 | Layer | Implementation |

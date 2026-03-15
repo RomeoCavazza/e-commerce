@@ -6,6 +6,32 @@ Ce document sert de **maxi prompt d’implémentation** : chaque phase peut êtr
 
 ---
 
+## Vue d’ensemble des phases
+
+```mermaid
+flowchart LR
+    P0[Phase 0 Prépa] --> P1[Phase 1 Design]
+    P1 --> P2[Phase 2 Backend]
+    P2 --> P3[Phase 3 Layout]
+    P3 --> P4[Phase 4 Landing]
+    P4 --> P5[Phase 5 Shop]
+    P5 --> P6[Phase 6 Checkout]
+    P6 --> P7[Phase 7 Finition]
+```
+
+| Phase | Livrable principal |
+|-------|--------------------|
+| 0 | Assets dans `frontend/public/assets/`, structure backend prête |
+| 1 | Design system Tailwind + polices + composants UI de base |
+| 2 | API REST produits + health, typée et propre |
+| 3 | Navbar sticky, panier (sheet + badge), gros footer, CartProvider |
+| 4 | Landing complète : hero vidéo loop, sections, footer |
+| 5 | Shop listing, fiche produit avec galerie, page panier |
+| 6 | Checkout, création commande backend, paiement (Stripe ou mock) + page succès |
+| 7 | Lint, typage, responsive, usage de tous les assets, prêt prod |
+
+---
+
 ## 1. Inventaire du repo (docs & assets)
 
 ### 1.1 Documentation de référence (à respecter)

@@ -1,3 +1,30 @@
+# Prompt — Context Engineering (DRYVIA)
+
+Ce fichier est le **prompt maître** pour générer la base de connaissances markdown du projet DRYVIA (branding, design system, product data, project context). À utiliser en amont du vibecoding : une fois les 4 fichiers produits, ils servent d’annexes pour tous les prompts suivants.
+
+---
+
+## Workflow recommandé
+
+```mermaid
+flowchart LR
+    A[Brief projet] --> B[Prompt Context Engineering]
+    B --> C[Agent]
+    C --> D[4 fichiers .md]
+    D --> E[brand_guidelines design_system product_data project_context]
+```
+
+| Étape | Action |
+|-------|--------|
+| 1 | Préparer un **brief projet** (niche, cible, stack, positionnement). |
+| 2 | Coller le brief + ce prompt dans une nouvelle conversation. |
+| 3 | Vérifier que les 4 fichiers sont bien créés sans placeholder (Lorem, etc.). |
+| 4 | Placer les fichiers dans `docs/IV. Context Engineering/Contexte/MarkDowns/`. |
+
+---
+
+## Bloc prompt (copier-coller)
+
 <Context>
 You are a Technical Documentation Architect specializing in creating comprehensive project documentation for modern full-stack e-commerce applications.
 </Context>

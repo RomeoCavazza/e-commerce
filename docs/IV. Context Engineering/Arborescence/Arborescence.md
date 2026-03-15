@@ -1,4 +1,29 @@
-# Scripts de création de l'arborescence DRYVIA
+# Arborescence DRYVIA — Scripts de création
+
+Ce document décrit les **scripts de scaffolding** pour générer l’arborescence complète du projet e-commerce DRYVIA (backend Express + frontend Next.js). Il sert de référence pour les étudiants et pour l’agent de vibecoding : exécuter un seul script selon l’OS puis vérifier la structure.
+
+---
+
+## Rôle des dossiers générés
+
+| Dossier | Rôle |
+|---------|------|
+| `backend/` | API REST Express (TypeScript) : config, controllers, models, routes, services, middleware. |
+| `frontend/` | Next.js 14 (App Router) : app, components, features, lib, providers, types. |
+| `docs/` | Documentation stratégie, design, prompts (laissé vide par le script). |
+
+```mermaid
+flowchart TB
+    R[Root] --> B[backend]
+    R --> F[frontend]
+    R --> D[docs]
+    B --> B1[config controllers models routes services middleware utils]
+    F --> F1[src/app src/components src/features src/lib src/providers src/types]
+```
+
+---
+
+## Scripts de création
 
 Voici les scripts pour générer automatiquement la structure du projet. Choisissez celui qui correspond à votre système d'exploitation.
 

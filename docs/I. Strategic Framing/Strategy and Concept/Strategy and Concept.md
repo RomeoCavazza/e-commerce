@@ -1,3 +1,30 @@
+# Prompt — Strategy and Concept (DRYVIA)
+
+Prompt pour générer le **document de stratégie produit** DRYVIA : niche, cible, problème, solution, USP et verdict GO/NO-GO. À utiliser en tout début de projet avant le branding et le design system.
+
+---
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[Brief produit] --> B[Prompt Strategy]
+    B --> C[Agent]
+    C --> D[Strategy and Concept.pdf / .md]
+    D --> E[Brand Identity + Design]
+```
+
+| Étape | Action |
+|-------|--------|
+| 1 | Définir le positionnement (indoor, éco, hygiène, performance). |
+| 2 | Copier ce prompt + le brief dans une nouvelle conversation. |
+| 3 | Vérifier la structure : niche, cible, problème, solution, tableau USP, verdict. |
+| 4 | Exporter en PDF si livrable stratégie demandé. |
+
+---
+
+## Bloc prompt (copier-coller)
+
 <Context>
 You are a product strategy expert for a sport and fitness brand. The goal is to define an innovative product niche, with a complete analysis of the market, customer problem, solution, and positioning.
 </Context>

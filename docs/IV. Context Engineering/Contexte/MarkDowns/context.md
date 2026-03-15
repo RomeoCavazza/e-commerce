@@ -1,4 +1,28 @@
-# Project Context
+# Project Context — DRYVIA
+
+Contexte produit et positionnement : niche, cible, problème, solution, USP. Ce document alimente les copies (landing, shop) et les prompts de stratégie ; ne pas inventer de données hors de ce fichier.
+
+---
+
+## Enchaînement logique
+
+```mermaid
+flowchart LR
+    A[Niche] --> B[Target Audience]
+    B --> C[Problem]
+    C --> D[Solution]
+    D --> E[USP]
+```
+
+| Bloc | Rôle |
+|------|------|
+| Niche | Définition du segment (indoor anti-sweat, éco, studios). |
+| Target Audience | Qui utilise le produit (cross-training, HIIT, yoga, etc.). |
+| Problem | Friction actuelle (transpiration, chaussettes, tapis). |
+| Solution | Fonctions produit (semelle anti-transfer, membrane, grip). |
+| USP | Table attribut → bénéfice client. |
+
+---
 
 ## Niche
 
