@@ -278,8 +278,6 @@ The scaffolding phase concludes with a fully synchronized local environment, ser
 
 ---
 
----
-
 ## VI. Industrial Vibe-Coding: The Build Session
 
 The **Vibecoding** phase is where the architecture is filled with industrial-grade logic. Once the environment is synchronized and the structure validated, we move from planning to active building.
