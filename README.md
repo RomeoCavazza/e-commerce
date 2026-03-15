@@ -378,7 +378,15 @@ frontend/src/
 ### Step 6.4: Versioning Finalization
 Once the Vibe-Coding session reaches production-ready state, we perform a final synchronization with the cloud, pushing the entire codebase to GitHub.
 
----
+**Commands (first push from local):**
+
+```bash
+git init
+git remote add origin git@github.com:USERNAME/e-commerce.git
+git add .
+git commit -m 'my first commit'
+git push -u origin main
+```
 
 <div align="center">
   <img src="docs/V.%20Vibecoding/github-push.png" alt="GitHub Sync" width="100%" />
